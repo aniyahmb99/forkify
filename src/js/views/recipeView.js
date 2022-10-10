@@ -12,6 +12,8 @@ class RecipeView extends View {
     ['hashchange', 'load'].forEach(ev => window.addEventListener(ev, handler));
   }
 
+  addHandlerUpdateServings(handler) {}
+
   _generateMarkup() {
     return `
     <figure class="recipe__fig">
@@ -58,12 +60,12 @@ class RecipeView extends View {
 
     <div class="recipe__user-generated">
       <svg>
-        <use href="src/img/icons.svg#icon-user"></use>
+         
       </svg>
     </div>
     <button class="btn--round">
       <svg class="">
-        <use href="src/img/icons.svg#icon-bookmark-fill"></use>
+        <use href="${icons}#icon-bookmark-fill"></use>
       </svg>
     </button>
   </div>
