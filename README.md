@@ -2,7 +2,7 @@
 ## Screenshots
 
 Home Page
-![image](https://user-images.githubusercontent.com/96402809/195165724-00184ede-a7fb-4c04-9ec4-bcc625d2b8ea.png)
+![image](https://user-images.githubusercontent.com/96402809/195167139-a4ad7e5c-7cf5-4d9a-9847-43f6bdf8e6bf.png)
 
 
 ## DESCRIPTION
