@@ -1,4 +1,8 @@
 # FORKIFY
+## Screenshots
+
+Home Page
+![image] (https://user-images.githubusercontent.com/96402809/195165724-00184ede-a7fb-4c04-9ec4-bcc625d2b8ea.png)
 
 
 ## DESCRIPTION
@@ -28,12 +32,6 @@ Users can add their own recipes.
 
 ## Technologies
 HTML, SCSS,  JAVASCRIPT
-
-
-## Screenshots
-
-Home Page
-![image]()
 
 ## Contributors
 Aniyah Butler
